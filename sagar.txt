@@ -8,3 +8,5 @@ git add
 git commit
 git rm --cached
 git restore fileName
+git push
+git pull
