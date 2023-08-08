@@ -1,0 +1,10 @@
+Hello everyone
+welcome to Devops learning
+Git-Hub Codes
+
+Git init
+git status
+git add
+git commit
+git rm --cached
+git restore fileName
