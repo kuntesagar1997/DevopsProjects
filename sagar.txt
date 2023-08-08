@@ -10,3 +10,6 @@ git rm --cached
 git restore fileName
 git push
 git pull
+git remote set-url --push
+##above are the git commands to pull or push the code to and from git-hub
+
